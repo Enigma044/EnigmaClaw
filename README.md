@@ -21,7 +21,7 @@ EnigmaClaw is an AI-powered coding agent that understands your codebase, plans d
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/enigmaclaw.git
+git clone https://github.com/Enigma044/EnigmaClaw.git
 cd enigmaclaw
 bun install
 ```
